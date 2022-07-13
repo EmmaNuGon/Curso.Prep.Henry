@@ -1,0 +1,2 @@
+los arrays[arreglos] son listas que llevan elementos como: numeros,strings,funciones,booleanos
+entre otros y con esto podemos hacer metodos de recorrido con bucles o de mutacion con push, pop,shif y unshift 
