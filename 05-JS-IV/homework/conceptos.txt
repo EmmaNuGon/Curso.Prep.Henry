@@ -1,0 +1,15 @@
+objetos: son listas de propiedas que hacen referencia a un objeto, con palabras claves y sus valores
+ por ejemplo:
+var Auto{
+    color: rojo,
+    modelo: toyota,
+    annio: 2020
+}
+en este caso  la palabra clave o propiedad seria color y su valor rojo , propiedad modelo valor toyota
+propiedad annio su valor 2020. (pueden contener "string" numeros,booleanos, funciones(metodos))
+
+propiedades: como lo explique recien las propiedades pertenecen al objeto y estas tienen como valor la descripcion de esa propiedad.
+
+metodos: los metodos se le llamaria a una funcion que este en una propiedad.
+
+bucle for in: el bucle nos permite recorrer el objeto con una sintaxis un poco diferente a un bucle for de un array
